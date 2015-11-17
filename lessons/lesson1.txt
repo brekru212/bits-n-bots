@@ -1,0 +1,13 @@
+The introduction lesson:
+
+The goal with this lesson is to demonstrate the "syntax" of the ev3 language.
+
+Tasks:
+
+1)  Build a program that clears the display, lights up the brick status light, and displays a sound of your choice before ending.
+
+Challenges:
+	- Make the display screen show an image of your choice.
+	- Use the touch sensors to control when the sound is played.
+	- Add a second sound that is different from the first one
+

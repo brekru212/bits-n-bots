@@ -1,0 +1,16 @@
+Motion is Fun:
+
+This project is meant to introduce the movement/steering blocks.
+
+Task:
+
+Make the robot move forward for two rotations of the motor.
+
+Then, once this is working, make the robot reverse back to its original position
+
+Finally, add a cheering sound to congratulate yourself
+
+Challenges:
+	Use a loop block to make the robot move back and forth 5 different times.  
+	If the robot is bumped, you should make it stop moving and play a not so happy sound
+
