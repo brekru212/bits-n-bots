@@ -1,0 +1,9 @@
+The happy dog: "runs" towards a person. (e.g. if a person is farther away from the infrared sensor the bot goes faster, if a person is closer it slows down)Added challenge. Avoids walls using the sight, and turns away so it doesn't crash. Added challenge: simultaneously reacts to being touched (touch sensor or buttons).
+
+Goal: Student learns the behaviour of linear responses
+
+Bot: Traker
+
+Functions: Freeze (pauses when touched), Turn-90° (to avoid walls)
+
+Sensor: distance/infrared (touch)
