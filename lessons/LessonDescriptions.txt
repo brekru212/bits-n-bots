@@ -1,0 +1,63 @@
+﻿Lesson 1: The introduction lesson:
+
+The goal with this lesson is to demonstrate the "syntax" of the ev3 language.
+
+Tasks:
+
+1)  Build a program that clears the display, lights up the brick status light, and displays a sound of your choice before ending.
+
+Challenges:
+        - Make the display screen show an image of your choice.
+        - Use the touch sensors to control when the sound is played.
+        - Add a second sound that is different from the first one
+
+
+
+Lesson 2: Motion is Fun:
+
+This project is meant to introduce the movement/steering blocks.
+
+Task:
+
+Make the robot move forward for two rotations of the motor.
+
+Then, once this is working, make the robot reverse back to its original position
+
+Finally, add a cheering sound to congratulate yourself
+
+Challenges:
+        Use a loop block to make the robot move back and forth 5 different times.  
+        If the robot is bumped, you should make it stop moving and play a not so happy sound
+
+
+Lesson 3: Working with sensors:
+
+The goal for this project is to get used to using the various sensors that come with ev3 to control the actions of the bot.
+
+Task:  Make the robot respond to its surroundings.  If something gets too close to it, the display screen should display "Too Close!", or emits a sound of your choice.
+
+Then, do the same thing, but with the Sound Sensor (If we eventually get it)
+
+
+Challenges:
+        Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag) 
+
+
+Lesson 4:
+Lesson 5:
+Lesson 6:
+
+
+The happy dog: "runs" towards a person. (e.g. if a person is farther away from the infrared sensor the bot goes faster, if a person is closer it slows down)Added challenge. Avoids walls using the sight, and turns away so it doesn't crash. Added challenge: simultaneously reacts to being touched (touch sensor or buttons).
+
+Goal: Student learns the behaviour of linear responses
+
+Bot: Traker
+
+Functions: Freeze (pauses when touched), Turn-90° (to avoid walls)
+
+Sensor: distance/infrared (touch)
+
+
+Lesson 7:
+Lesson 8:
