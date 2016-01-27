@@ -5,14 +5,15 @@ The goal for this project is to get used to using the various sensors that come 
 ### Task:  
 Make the robot respond to its surroundings.  If something gets too close to it, the display screen should display "Too Close!", or emits a sound of your choice.
 
-Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
 
-At the end of the motion, check to see whether or not the bot is too close to its surroundings. You can do so by making the robot spin in a circle (this is more challenging!!) and checking the sensor throughout the rotation, or by making the bot just check in the direction of your choice.
 
 ### Challenges
-If you get this far, well done!
 
-What if the robot isn't that far away from an object, but it also isn't THAT close to one?  Well, you can change the robot's movement speed depending on its proximity to something.  (Hint, use a case block and read the help information).
+**1)** Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
+
+**2)** At the end of the motion, check to see whether or not the bot is too close to its surroundings. You can do so by making the robot spin in a circle (this is more challenging!!) and checking the sensor throughout the rotation, or by making the bot just check in the direction of your choice.
+
+**3)** What if the robot isn't that far away from an object, but it also isn't THAT close to one?  Well, you can change the robot's movement speed depending on its proximity to something.  (Hint, use a case block and read the help information).
 
 ### The last challenge
 
