@@ -15,5 +15,6 @@ Now, use a 'loop block' to make the bot move in a square over and over again.
 Once this works, see if you can control the number of times the robot moves in a square.  Once it reaches this number, end the loop and display a cheering sound.
 
 ### Challenge:
-	Now, make the robot pick up and drop off an object at each corner of the square.
-	Can you make the robot figure out whether there is actually an object to pick up? This requires a case block and you to use the proximity sensor. 
+
+Now, make the robot pick up and drop off an object at each corner of the square.
+Can you make the robot figure out whether there is actually an object to pick up? This requires a case block and you to use the proximity sensor. 
