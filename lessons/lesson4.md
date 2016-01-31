@@ -1,4 +1,4 @@
-Introduction
+### Introduction
 
 This lesson is different than what is listed on the timeline document on google docs.  Because we do not have the truck bot, we came up with our own lesson that could eventually be used with the truck bot if/when we get once.
 
@@ -12,10 +12,8 @@ This will take some trial and error to get right because the bots turn different
 Now, use a 'loop block' to make the bot move in a square over and over again.  
 (If you didn't get to the challenges last week, don't worry, we'll explain what a loop block is again.)
 
-
-
-
 Once this works, see if you can control the number of times the robot moves in a square.  Once it reaches this number, end the loop and display a cheering sound.
 
-Challenge:
+### Challenge:
 	Now, make the robot pick up and drop off an object at each corner of the square.
+	Can you make the robot figure out whether there is actually an object to pick up? This requires a case block and you to use the proximity sensor. 
