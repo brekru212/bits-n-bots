@@ -4,9 +4,9 @@ The goal for this project is to get used to using the various sensors that come 
 
 ### Task:  
 
-Use the infrared sensor to display the robot's proximity to it's object on the screen.  (You'll need to add a wait block at the end to make sure that the program doesn't end right after it displays the value, otherwise you won't see anything before it disappears!)
+Use the infrared sensor to display the robot's proximity to nearby objects on the screen.  (You'll need to add a wait block at the end to make sure that the program doesn't end right after it displays the value, otherwise you won't see anything before it disappears!)
 
-Make the robot respond to its surroundings.  If something gets too close to it, the display screen should display "Too Close!", or emit a sound of your choice.  
+Hint: You need to use the 'wired' setting for the display block.  Also, you need to drag a wire from the sensor block to the display block
 
 Do you notice anything weird about how your program behaves? Try to figure it out.
 
