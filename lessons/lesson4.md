@@ -1,20 +1,14 @@
-### Introduction
+### The Task
+Make the robot move in a square using the loop block.
+First make the robot move forward.
+Then, make the robot turn 90 degrees - (actually hard to get right with the control blocks, so play around with the turning values until you find the right one)
+Finally, put those steps into a loop block and have it execute 4 times in a row to complete the square. 
 
-This lesson is different than what is listed on the timeline document on google docs.  Because we do not have the truck bot, we came up with our own lesson that could eventually be used with the truck bot if/when we get once.
-
-**Task**:  Learn to use a while loop to complete the same task over and over again, which is to make deliveries as a dump truck.
-This will make you more comfortable with moving the bot, while also demonstrating a 'loop block'
-
-Make the bot move in a square.  Think about the best ways to do this
-
-This will take some trial and error to get right because the bots turn differently depending on the surface they are on!  So, play around with the power settings of the motors.
-
-Now, use a 'loop block' to make the bot move in a square over and over again.  
-(If you didn't get to the challenges last week, don't worry, we'll explain what a loop block is again.)
-
-Once this works, see if you can control the number of times the robot moves in a square.  Once it reaches this number, end the loop and display a cheering sound.
-
-### Challenge:
-
-Now, make the robot pick up and drop off an object at each corner of the square.
-Can you make the robot figure out whether there is actually an object to pick up? This requires a case block and you to use the proximity sensor. 
+### Challenges
+If the groups finish early, have them try different stopping conditions. Instead of stopping after turning four times, try:
+- stopping after 20 seconds of moving in squares
+- stopping after 20 seconds, but making sure that the robot always completes a full square (hint: you can put loops inside of other loops)
+- doing a loop in one direction and then a loop in another direction.
+- Try out the other stopping mechanisms in the loop block- get creative!
+- stopping if the infrared sensor sees something within 25 units (unclear what the units are in the block)
+- try to get the robot to do the infinity sign over and over
