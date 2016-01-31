@@ -11,7 +11,7 @@ Make the robot respond to its surroundings.  If something gets too close to it, 
 Do you notice anything weird about how your program behaves? Try to figure it out.
 
 ### Challenges
-** 0)** To make it so that the robot keeps checking the proximity sensor over and over again, we use a 'while loop'. This way, it will continuously execute your blocks over and over again.
+**0)** To make it so that the robot keeps checking the proximity sensor over and over again, we use a 'while loop'. This way, it will continuously execute your blocks over and over again.
 
 **1)** Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
 
