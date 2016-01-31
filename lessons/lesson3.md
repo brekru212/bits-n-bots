@@ -4,14 +4,14 @@ The goal for this project is to get used to using the various sensors that come 
 
 ### Task:  
 
-Use the infrared sensor to display the robot's proximity to it's ojbect on the screen.  (You'll need to add a wait block at the end to make sure that the program doesn't end right after it displays the value, otherwise you won't see anything before it disappears!)
+Use the infrared sensor to display the robot's proximity to it's object on the screen.  (You'll need to add a wait block at the end to make sure that the program doesn't end right after it displays the value, otherwise you won't see anything before it disappears!)
 
 Make the robot respond to its surroundings.  If something gets too close to it, the display screen should display "Too Close!", or emit a sound of your choice.  
 
 Do you notice anything weird about how your program behaves? Try to figure it out.
 
 ### Challenges
-**0)** To make it so that the robot keeps checking the proximity sensor over and over again, we use a 'while loop'. This way, it will continuously execute your blocks over and over again.  Try implementing this
+**0)** To make it so that the robot keeps checking the proximity sensor over and over again, we use a 'while loop'.  In EV3, this is called a loop block. This way, it will continuously execute your blocks over and over again.  Try doing this.
 
 **1)** Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
 
