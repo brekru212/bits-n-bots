@@ -1,6 +1,6 @@
 ### The Mission
 
-Imagine the duties of a dump truck.  They often follow the same path, while also picking up and dropping things off at constant intervals.  This time, we'll be working on getting the bot to follow a predictable path.  Once that is working, your job is to use the claw on the front of your bots to pick up and drop off the cargo.
+Imagine the duties of a dump truck.  They often follow the same path, while also picking up and dropping things off at constant intervals.  This time, we'll be working on getting the bot to follow a predictable path.  Once that is working, your job is to use the claw on the front of your bots to pick up and drop off the cargo.  This way, we'll have a functioning dump/delivery truck.
 
 ### Tasks
 
@@ -12,14 +12,16 @@ Your job is to automate the task of picking up and dropping off objects in the d
 
 Experiment with the loop block, see if you can make the bot travel in the square shape several times without failure.  Or, try making the loop stop after a certain amount of time.  Or, if you're feeling crazy, make it go on forever!
 
-*4)*  Can you make the bots travel in a shape other than a square? A triangle? Pentagon? Hexagon?  Try coming up with a new delivery route shape for the dump truck.
+*4)*  Can you make the bots travel in a shape other than a square? A triangle? Pentagon? Hexagon?  Try coming up with a new delivery route shape for the dump truck.  Or, even harder, in the shape of an infinity symbol?
 
 ### Challenges
 
-*4)* What if someone forgot to place an object in the pick up zone?  Well, you can use the infrared sensor from last week to detect whether there is an object that needs to be picked up.  (Look into using the case block)
+*5)* What if someone forgot to place an object in the pick up zone?  Well, you can use the infrared sensor from last week to detect whether there is an object that needs to be picked up.  (Look into using the case block)
 
-*5)*  What if there is an obstacle that prevents you from moving in your path?  Can you make the bot stop so that it does not collide with the object.  Or, even better, make it so that the bot goes around an obstacle?
+*6)*  What if there is an obstacle that prevents you from moving in your path?  Can you make the bot stop so that it does not collide with the object.  Or, even better, make it so that the bot goes around an obstacle?
 
+
+### ORIGINAL CHALLENGES
 If the groups finish early, have them try different stopping conditions. Instead of stopping after turning four times, try:
 - stopping after 20 seconds of moving in squares
 - stopping after 20 seconds, but making sure that the robot always completes a full square (hint: you can put loops inside of other loops)
