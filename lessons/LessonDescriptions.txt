@@ -1,4 +1,4 @@
-﻿Lesson 1: The introduction lesson:
+Lesson 1: The introduction lesson:
 
 The goal with this lesson is to demonstrate the "syntax" of the ev3 language.
 
@@ -38,19 +38,69 @@ Task:  Make the robot respond to its surroundings.  If something gets too close 
 
 Then, do the same thing, but with the Sound Sensor (If we eventually get it)
 
-
 Challenges:
-        Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag) 
+
+1) Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
+
+2) At the end of the motion, check to see whether or not the bot is too close to its surroundings. You can do so by making the robot spin in a circle (this is more challenging!!) and checking the sensor throughout the rotation, or by making the bot just check in the direction of your choice.
+
+3) What if the robot isn't that far away from an object, but it also isn't THAT close to one?  Well, you can change the robot's movement speed depending on its proximity to something.  (Hint, use a case block and read the help information).
+
+The last challenge
+
+What if you want the bot to move around forever, without having to constantly restart the program or by repeating the same set of blocks? This is where a 'loop block' comes in handy, it lets you run the same sequence of blocks over and over again until some condition is met, or if you want it to, forever!
+
 
 
 Lesson 4:
-Lesson 5:
+The goal of this lesson is to teach kids about for-loops	
+
+Task:  Learn to use a for loop to complete the same task over and over again.
+(Loop Block)
+
+Use a for loop to make the bot move around in a square.
+
+First, make the bot move forward and turn ninety degrees.  Once this is working, you can put this into a loop block! To make a square, you just have to repeat the move and turns steps four times (one for each side of the square)
+
+HINT: You will have to play around with the turn/motor power numbers to get a perfect right angle turn
+
+Once this works, see if you can control the number of times the robot moves in a square.  Once it reaches this number, end the loop display a cheering sound.
+
+Challenge Load and unload at each corner
+
+Lesson 5: (Note this needs both color and infrared sensors)
+Truck: Navigate
+
+With this lesson, the point is to demonstrate the use of 'case structures'.  This is Lego's equivalent of an 'if statement'.
+
+An if statement is very common in programming, it is what allows the robots to think for themselves.  Here's an example:
+
+If the robot is too close to a wall:
+
+  -  turn around and keep moving
+
+If the robot is not too close:
+
+  -  keep moving forward
+
+We're going to use this idea to tell our robots to navigate an obstacle course.  
+
+This will require the robots to move rather gracefully.  
+
+First, the robot will move forward.  Then, it will have to check the value of the Infrared Sensor.  Remember, this is the sensor
+that we use to figure out if we are too close to an object.
+
+Now, this is where our if-statement comes in handy (it is called a switch by EV3).  Depending on how close you are to an obstacle, you either
+move around it or continue moving forward.
+
+Challenge: Use the color sensor to check if there is something to be picked up.
+
 Lesson 6:
 
 
 The happy dog: "runs" towards a person. (e.g. if a person is farther away from the infrared sensor the bot goes faster, if a person is closer it slows down)Added challenge. Avoids walls using the sight, and turns away so it doesn't crash. Added challenge: simultaneously reacts to being touched (touch sensor or buttons).
 
-Goal: Student learns the behaviour of linear responses
+Goal: Student learns the behavior of linear responses
 
 Bot: Traker
 

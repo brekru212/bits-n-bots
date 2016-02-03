@@ -16,7 +16,7 @@ If the robot is not too close:
 
   -  keep moving forward
 
-****Now, show a demonstration of the anatomy of the switch block.  No more than two minutes.****
+*** Now, show a demonstration of the anatomy of the switch block.  No more than two minutes.***
 
 We're going to use this idea to tell our robots to navigate an obstacle course.  
 
