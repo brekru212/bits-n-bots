@@ -38,7 +38,7 @@ Before continuining on to the challenges, call over a volunteer.  Show them what
 
 **1)** Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
 
-**2)** At the end of the motion, check to see whether or not the bot is too close to its surroundings. 
+**2)** At the end of the motion, check to see whether or not the bot is too close to its surroundings.  Display the proximity sensor value on the screen 
 
 Optionally, you can do so by making the robot spin in a circle (this is more challenging!!) and checking the sensor throughout the rotation, or by making the bot just check in the direction that the bot is facing.
 
