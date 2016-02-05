@@ -38,11 +38,19 @@ Before continuining on to the challenges, call over a volunteer.  Show them what
 
 **1)** Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
 
-**2)** At the end of the motion, check to see whether or not the bot is too close to its surroundings.  Display the proximity sensor value on the screen 
+**2)** After moving, use the value from the proximity sensor to control how fast the robot moves.  This allows us to slow down once we get close to something and lets our bot do some decision making! (Use the wire concept you used earlier! Take the value from the sensor and drag it into the motor power value).  
 
-Optionally, you can do so by making the robot spin in a circle (this is more challenging!!) and checking the sensor throughout the rotation, or by making the bot just check in the direction that the bot is facing.
+Do you notice something wrong here? You may have to use a math block (red block) to perform the sensor value
 
-**The Last Challenge** What if the robot isn't that far away from an object, but it also isn't that close to one?  Well, you can change the robot's movement speed depending on its proximity to something  (Use the wire you used earlier!).  (Hint, use a case block and read the help information).
+**The Last Challenge**
+
+Lets make our bot do some multitasking!
+
+Try using two start blocks.  For the first start block, handle all of the motion of the bot.
+
+For the second start block, control the proximity sensor.  If the value of the sensor is ever less than 10, make the program stop running.
+
+This allows our bot to perform multiple tasks at once, instead of one after the other!
 
 
 
