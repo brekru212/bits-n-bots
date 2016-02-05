@@ -1,14 +1,37 @@
 ## Working with sensors:
 
-The goal for this project is to get used to using the various sensors that come with ev3 to control the actions of the bot.  We currently have an infrared sensor, which can be used for measuring the robot's proximity to an object.
+The goal for this project is make our bots aware of their surroundings.  Otherwise, our bot will run into things and collide with objects in future lessons!.  
 
-### Task:  
+We will be using the 'infrared sensor' to measure proximity.  Does everyone know what the word 'infrared' means?  If not, be sure to ask!
 
-Use the infrared sensor to display the robot's proximity to nearby objects on the screen.  (You'll need to add a wait block at the end to make sure that the program doesn't end right after it displays the value, otherwise you won't see anything before it disappears!)
+### Task  
 
-Hint: You need to use the 'wired' setting for the display block.  Also, you need to drag a wire from the sensor block to the display block
+## Alpha
+Use the infrared sensor to display the robot's proximity to nearby objects on the screen.  
 
-Do you notice anything weird about how your program behaves? Try to figure it out.
+Hint: You need to use the 'wired' setting for the display block.  Also, you need to drag a wire from the infrared sensor block to the display block
+
+Do you notice anything weird about how your program behaves? You may have noticed that the value doesn't show up!  This is because the program executes too quickly for your eyes to read the value.  Try adding a 'wait block' at the end of your blocks.
+
+
+## Beta
+Now that you successfully displayed the proximity on the display, can you do this a second time?
+
+Use the same block(s) from task Alpha to display the proximity on the screen two separate times.  In between each time you read the sensor, make the bot wait two or three seconds.  
+
+Pick up the bot and point it at various objects, have some fun measuring the bot's proximity to different objects!
+
+## Gamma
+
+Now, let's add some motion in between reading the sensors.
+
+How would you make the robot turn 90 degrees and then display the proximity sensor value on the screen?  Can you do this four times, each time turning ninety degrees?
+
+
+In what order do you have to place the blocks?  (Remember, EV3 reads from left to right, just like us!)
+
+Before continuining on to the challenges, call over a volunteer.  Show them what you just did and try to explain to them how everything works!
+
 
 ### Challenges
 **0)** To make it so that the robot keeps checking the proximity sensor over and over again, we use a 'while loop'.  In EV3, this is called a loop block. This way, it will continuously execute your blocks over and over again.  Try doing this.
