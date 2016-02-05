@@ -4,9 +4,9 @@ The goal for this project is make our bots aware of their surroundings.  Otherwi
 
 We will be using the 'infrared sensor' to measure proximity.  Does everyone know what the word 'infrared' means?  If not, be sure to ask!
 
-### Task  
+## Task  
 
-## Alpha
+### Alpha
 Use the infrared sensor to display the robot's proximity to nearby objects on the screen.  
 
 Hint: You need to use the 'wired' setting for the display block.  Also, you need to drag a wire from the infrared sensor block to the display block
@@ -14,14 +14,14 @@ Hint: You need to use the 'wired' setting for the display block.  Also, you need
 Do you notice anything weird about how your program behaves? You may have noticed that the value doesn't show up!  This is because the program executes too quickly for your eyes to read the value.  Try adding a 'wait block' at the end of your blocks.
 
 
-## Beta
+### Beta
 Now that you successfully displayed the proximity on the display, can you do this a second time?
 
 Use the same block(s) from task Alpha to display the proximity on the screen two separate times.  In between each time you read the sensor, make the bot wait two or three seconds.  
 
 Pick up the bot and point it at various objects, have some fun measuring the bot's proximity to different objects!
 
-## Gamma
+### Gamma
 
 Now, let's add some motion in between reading the sensors.
 
@@ -33,7 +33,7 @@ In what order do you have to place the blocks?  (Remember, EV3 reads from left t
 Before continuining on to the challenges, call over a volunteer.  Show them what you just did and try to explain to them how everything works!
 
 
-### Challenges
+## Challenges
 **0)** To make it so that the robot keeps checking the proximity sensor over and over again, we use a 'while loop'.  In EV3, this is called a loop block. This way, it will continuously execute your blocks over and over again.  Try doing this.
 
 **1)** Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
