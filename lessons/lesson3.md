@@ -40,7 +40,7 @@ Before continuining on to the challenges, call over a volunteer.  Show them what
 
 **2)** After moving, use the value from the proximity sensor to control how fast the robot moves.  This allows us to slow down once we get close to something and lets our bot do some decision making! (Use the wire concept you used earlier! Take the value from the sensor and drag it into the motor power value).  
 
-Do you notice something wrong here? You may have to use a math block (red block) to perform the sensor value
+Do you notice something wrong here? You may have to use a math block (red block) to do some math on the sensor value
 
 **The Last Challenge**
 
