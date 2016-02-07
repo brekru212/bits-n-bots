@@ -34,13 +34,15 @@ Before continuining on to the challenges, call over a volunteer.  Show them what
 
 
 ## Challenges
-**0)** To make it so that the robot keeps checking the proximity sensor over and over again, we use a 'while loop'.  In EV3, this is called a loop block. This way, it will continuously execute your blocks over and over again.  Try doing this.
+**0)** To make it so that the robot keeps checking the proximity sensor over and over again, we use a 'while loop'.  In EV3, this is called a loop block. This way, it will continuously execute your blocks over and over again.  
+
+Try doing this and, once you have it working, walk around with your bot, measuring its proximity to things.
 
 **1)** Once you have that working, trying adding movement.  Make the bot move around and explore its surroundings in a pattern of your choice. (Circle, square, zig zag).  
 
 **2)** After moving, use the value from the proximity sensor to control how fast the robot moves.  This allows us to slow down once we get close to something and lets our bot do some decision making! (Use the wire concept you used earlier! Take the value from the sensor and drag it into the motor power value).  
 
-Do you notice something wrong here? You may have to use a math block (red block) to do some math on the sensor value
+Once that's working, do you notice something wrong here? You may have to use a math block  to do some math to change the sensor value so that it works correctly.  
 
 **The Last Challenge**
 
