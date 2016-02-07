@@ -44,13 +44,7 @@ Do you notice something wrong here? You may have to use a math block (red block)
 
 **The Last Challenge**
 
-Lets make our bot do some multitasking!
-
-Try using two start blocks.  For the first start block, handle all of the motion of the bot.
-
-For the second start block, control the proximity sensor.  If the value of the sensor is ever less than 10, make the program stop running.
-
-This allows our bot to perform multiple tasks at once, instead of one after the other!
+Try to make the bot stop before it hits an object!  (Hint:  The best way is to use the unregulated motor block)
 
 
 
