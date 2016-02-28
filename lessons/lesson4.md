@@ -4,13 +4,27 @@ Imagine the duties of a dump truck.  They often follow the same path, while also
 
 ### Tasks
 
-Your job is to automate the task of picking up and dropping off objects in the designated 'pick up' and 'drop off' zones.  The route for your dump truck makes a square shape.  At each corner of the square, the bot needs to drop off its current object while also picking up the one that is in the 'pick up' zone. 
+Your job is to create a delivery route for your dump truck. Using the claw, we want to pick up the
+object in the designated 'pick up' zone and drop it off in the 'drop off' zone.  The route for your dump truck makes a square shape.
 
-**1)** Make the robot move in a square using the movement and steering control blocks.  (It will take some trial and error to get a perfect 90 degree turn)
+For your first pickup route, you only need to pick up the object at the start of your route and
+drop it off at the end of the route!
 
-**2)** Once that is working, think about how you can add the 'pick up' and 'drop off' features using the claw.
+**1)** Make the robot move in a square using the movement and steering control blocks.  (It will
+take some trial and error to get a perfect 90 degree turn. Or, you can use the my block that we
+provide you)
 
-**3)** Now, what if your boss tells you that you need to travel this route more than once? Well, this is where the 'loop block' comes in handy.  It lets you execute a set of blocks over and over again.
+To make things exciting, make sure your square is at least two feet in length & width!
+
+**2)** Once that is working, think about how you can add the 'pick up' and 'drop off' features
+using the claw. (Hint, use the my blocks that we provide you)
+
+**2.1)** Can you make your dump truck pick up the object, move in a square, and then drop off the
+object ?  Try it out.
+
+**3)** Now, what if your boss tells you that you need to travel this route more than once? Well,
+this is where the 'loop block' comes in handy.  It lets you execute a set of blocks over and over
+again.  Check out the cheat sheet we provide you for more info on the loop block.
 
 Experiment with the loop block, see if you can make the bot travel in the square shape several times without failure.  Or, try making the loop stop after a certain amount of time.  Or, if you're feeling crazy, make it go on forever!
 
@@ -21,13 +35,3 @@ Experiment with the loop block, see if you can make the bot travel in the square
 **5)** What if someone forgot to place an object in the pick up zone?  Well, you can use the infrared sensor from last week to detect whether there is an object that needs to be picked up.  (Look into using the case block)
 
 **6)**  What if there is an obstacle that prevents you from moving in your path?  Can you make the bot stop so that it does not collide with the object.  Or, even better, make it so that the bot goes around an obstacle?
-
-
-### ORIGINAL CHALLENGES
-If the groups finish early, have them try different stopping conditions. Instead of stopping after turning four times, try:
-- stopping after 20 seconds of moving in squares
-- stopping after 20 seconds, but making sure that the robot always completes a full square (hint: you can put loops inside of other loops)
-- doing a loop in one direction and then a loop in another direction.
-- Try out the other stopping mechanisms in the loop block- get creative!
-- stopping if the infrared sensor sees something within 25 units (unclear what the units are in the block)
-- try to get the robot to do the infinity sign over and over
