@@ -14,10 +14,22 @@ Task
  
  3)  How about some shapes? A triangle, a circle, a square? Pick one and try it!
  
+ Loops
+ ---
+ 
+ You may have seen the loop block a few weeks ago, don't worry if you haven't.
+ 
+ Lets try to draw a zig-zag.  
+ 
+ ![Zig Zag](http://i.imgur.com/tO0BwjC.png "Zig Zag")
+ 
+Think about how you can use the loop block to draw 4 zig zags. How about 5 zig zags? 
+(Hint: use the 'count' option on the loop block!)
+ 
  
  Now, what about some fancy shapes?
  
- This is called an Ulam Spiral.  Can you draw this?
+How about a square spiral.  Can you try to draw this?
  ![Ulam Spiral](http://i.imgur.com/MxYd9yi.png "Ulam Spiral")
  
  How about something with round edges? Come up with your own ideas.
