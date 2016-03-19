@@ -7,6 +7,7 @@ Task
  As you may have noticed, there is now a pen on your robot! Using the paper, try drawing these shapes:
  
  1) The letter L, or something else from our alphabet
+ 
  2) In honor of pi day last week, try drawing the greek letter pi (pronounced like pie)!
  
  Here is what it looks like:
