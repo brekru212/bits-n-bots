@@ -22,7 +22,7 @@ Loop
  
  Lets try to draw a zig-zag.  
  
- ![Zig Zag](http://imgur.com/bzsDOhk "Zig Zag")
+ ![Zig Zag](http://i.imgur.com/bzsDOhk.png "Zig Zag")
  
 Think about how you can use the loop block to draw 4 zig zags. How about 5 zig zags? 
 (Hint: use the 'count' option on the loop block!)
