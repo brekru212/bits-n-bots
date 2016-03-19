@@ -13,7 +13,7 @@ Task
  Here is what it looks like:
  ![Pi](http://i.imgur.com/9e3rBdV.png "Pi")
  
- 3)  How about some shapes? A triangle, a circle, a square? Pick one and try it!
+ 3)  Now, try drawing a shape.  Draw a circle and then try drawing a square.
  
 Loop
 ---
