@@ -3,6 +3,7 @@ We want our robot to be able to trace its path on paper.  What cool shapes can y
 
 ### Task
 Welcome back to part two of the marker mission!
+
 1. We drew some letters last week. How about drawing the first letters from each of your names?
   * Example: If Thurston and Chloe are working together, draw an 'T' and a 'C'!
 2. Now, lets try drawing a six-pointed star. There is an easy and a hard way to do this! Think about it (hint, it involves two triangles)
