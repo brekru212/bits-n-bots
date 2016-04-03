@@ -36,7 +36,7 @@ Loop
  
  Draw each square, one at a time.  So run the program once, change the 'size' of the square in your program, run it again.
  
- Approach #2:
+ Hard Approach #2:
  
  Use the loop block to repeatedly draw squares, but changing the size of each square to be smaller than the previous one.
  Think about how you can use the loop block to accomplish this task.
